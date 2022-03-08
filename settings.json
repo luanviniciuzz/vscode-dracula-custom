@@ -1,0 +1,55 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorCustomizations": {
+
+        "titleBar.activeBackground": "#21222C",
+        "titleBar.activeForeground": "#F8F8F2",                                              
+        "titleBar.inactiveBackground": "#191A21",                                    
+        "titleBar.inactiveForeground": "#6272A4",
+        
+        "breadcrumb.foreground": "#6272A4",
+        "menu.background":"#21222C",
+        "menu.selectionBackground": "#343746",
+        "menu.selectionForeground": "#F8F8F2",
+        "menu.selectionBorder": "#bd93f9",
+
+        "editor.background": "#282A36",
+        "editor.foreground": "#F8F8F2",
+        "editorLineNumber.foreground": "#6272A4",
+
+        "activityBar.activeBackground": "#343746",
+        "activityBar.inactiveForeground": "#6272A4",
+        "activityBar.background": "#343746",
+        "activityBar.foreground": "#F8F8F2",
+        "activityBar.activeBorder": "#bd93f9",        
+        "activityBarBadge.background": "#FF79C6",                                           
+        "activityBarBadge.foreground": "#F8F8F2",
+
+        "badge.foreground": "#F8F8F2",
+        "badge.background": "#44475A",
+
+        "statusBar.background": "#21222C",
+        "statusBar.foreground": "#F8F8F2",
+
+
+        "editorGroup.border": "#BD93F9",                                                   
+        "editorGroup.dropBackground": "#44475A70",            
+        "editorGroupHeader.tabsBackground": "#191A21",
+
+        "tab.activeBackground": "#282A36",
+        "tab.activeForeground": "#F8F8F2",
+        "tab.border": "#191A21",
+        "tab.activeBorderTop": "#bd93f9",
+        "tab.inactiveBackground": "#21222C",
+        "tab.inactiveForeground": "#6272A4",
+
+        "sideBar.background":"#21222C",
+        "sideBarTitle.foreground": "#F8F8F2",
+        "sideBarSectionHeader.background": "#282A36",
+        "sideBarSectionHeader.border": "#191A21",
+
+        "settings.checkboxBackground":"#FF79C6",
+        
+    },
+   
+}
